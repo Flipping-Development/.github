@@ -2,7 +2,7 @@
 
 Welcome to **Flipping Development**! 🚀
 
-Flipping Development is a creative and tech-driven organisation founded by Michael Knox and Sian. We focus on building innovative software projects that span various domains, from mobile applications to web tools, all designed with user-centric experiences in mind.
+Flipping Development is a creative and tech-driven organisation founded by Michael and Siana. We focus on building innovative software projects that span various domains, from mobile applications to web tools, all designed with user-centric experiences in mind.
 
 Our portfolio includes multiple projects that are constantly iterating, improving, and pushing the boundaries of what tech can do for both work and play.
 
